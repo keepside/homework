@@ -57,3 +57,7 @@ function RecipeApp() {
 export default (BookApp);
 // export default (MusicApp);
 // export default (RecipeApp);
+
+
+
+// Чтоб увидеть все задания, раскомментируйте отдельные комментарии по очереди
