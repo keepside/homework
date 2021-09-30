@@ -1,0 +1,17 @@
+[33mcommit ae48f79371092b8fec022a2b443c1edef1d592f6[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: keepside <0979433448misha@gmail.com>
+Date:   Thu Sep 30 18:54:06 2021 +0300
+
+    done-hw
+
+[33mcommit 235e5c89bfce0701bdcaa7aec8c452f429dbf52d[m
+Author: keepside <0979433448misha@gmail.com>
+Date:   Thu Sep 30 18:47:25 2021 +0300
+
+    ready
+
+[33mcommit 0aeeab19ad8a51b307d4f64b69cf6c23ee126590[m
+Author: keepside <0979433448misha@gmail.com>
+Date:   Wed Sep 29 12:51:18 2021 +0300
+
+    Initialize project using Create React App
